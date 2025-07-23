@@ -1,1 +1,2 @@
-// module.vpc/variables.tf
+
+variable "vpc_cidr" {}

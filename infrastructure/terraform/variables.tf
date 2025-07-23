@@ -1,1 +1,3 @@
-// Placeholder
+
+variable "region" {}
+variable "profile" {}

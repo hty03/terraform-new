@@ -1,1 +1,2 @@
-// module.s3/variables.tf
+
+variable "s3_logs_bucket_name" {}

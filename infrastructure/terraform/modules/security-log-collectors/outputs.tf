@@ -1,1 +1,4 @@
-// module.security-log-collectors/outputs.tf
+
+output "cloudtrail_id" {
+  value = aws_cloudtrail.main.id
+}

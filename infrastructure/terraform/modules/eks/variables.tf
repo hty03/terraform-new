@@ -1,1 +1,7 @@
-// module.eks/variables.tf
+
+variable "cluster_name" {}
+variable "cluster_version" {}
+variable "cluster_role_arn" {}
+variable "subnet_ids" {
+  type = list(string)
+}

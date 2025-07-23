@@ -1,1 +1,2 @@
-// module.security-log-collectors/variables.tf
+
+variable "cloudtrail_s3_bucket" {}

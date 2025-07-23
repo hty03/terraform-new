@@ -1,1 +1,2 @@
-// module.dynamodb/variables.tf
+
+variable "ddb_security_logs_table" {}
