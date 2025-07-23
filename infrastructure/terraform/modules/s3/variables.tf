@@ -1,1 +1,1 @@
-// Placeholder
+// module.s3/variables.tf

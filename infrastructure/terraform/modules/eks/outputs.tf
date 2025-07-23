@@ -1,1 +1,1 @@
-// Placeholder
+// module.eks/outputs.tf

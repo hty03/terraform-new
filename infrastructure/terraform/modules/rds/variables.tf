@@ -1,1 +1,1 @@
-// Placeholder
+// module.rds/variables.tf

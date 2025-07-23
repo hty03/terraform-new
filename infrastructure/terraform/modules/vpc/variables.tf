@@ -1,1 +1,1 @@
-// Placeholder
+// module.vpc/variables.tf

@@ -1,1 +1,1 @@
-// Placeholder
+// module.eks/variables.tf

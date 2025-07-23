@@ -1,1 +1,1 @@
-// Placeholder
+// module.vpc/outputs.tf

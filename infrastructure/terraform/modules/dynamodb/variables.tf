@@ -1,1 +1,1 @@
-// Placeholder
+// module.dynamodb/variables.tf
